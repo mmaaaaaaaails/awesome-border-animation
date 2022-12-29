@@ -11,8 +11,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
     background-color: #0c1022;
+    margin-top: 100px;
 }
 
 .box {
